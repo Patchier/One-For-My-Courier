@@ -30,8 +30,8 @@ First off, you will need:
 MILESTONES
 ==========
 
-Install Fallout 3 and New Vegas
--------------------------------
+Install Fallout 3 and New Vegas on the same drive
+-------------------------------------------------
 
 This part is self-explanatory. You'll want to go to the installations of each game, and remove all files present in the install folder (For example, steamapps/common/Fallout 3). Once done, go ahead and re-install it. This ensures that any installs you have will be totally clean, which is important for the next steps. While you're here, run each game once, and exit the launchers once your graphics settings are determined.
 

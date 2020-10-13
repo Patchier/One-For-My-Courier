@@ -78,7 +78,7 @@ Now comes the big one. I will be writing instructions for this in a way that res
 
 11. After this, download the "loadorder.txt" file, linked below, and place it in the "profiles -> One for my Courier" folder. 
 
-12. Link to load order: <https://drive.google.com/file/d/1m6eF23AGexzPqp9uBBMueZVpV8tu33aR/view?usp=sharing>
+12. Link to load order: <https://drive.google.com/file/d/1cAiq7agebKDxN1-RcEQI9APR3hu70Tr2/view?usp=sharing>
 
 13. Return to MO2, and hit F5. This should refresh the load order on the right panel. 
 
